@@ -11,3 +11,6 @@ There is no code yet to download! Really sad!
 
 Make sure you install python. A famous philosopher once said: 
 > "i really like python"
+
+
+Use `git clone` to clone this repo!
